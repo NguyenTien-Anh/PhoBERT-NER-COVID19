@@ -1,0 +1,6 @@
+.idea/
+.ipynb_checkpoints/
+/vncorenlp
+test_notebook/
+__pycache__/
+lightning_logs/
