@@ -1,8 +1,11 @@
 datasets==2.3.2
 numpy==1.21.5
 pytorch_crf==0.7.2
-PyYAML==6.0
+pyyaml==6.0
 scikit_learn==1.1.1
 torch==1.11.0
 torchcrf==1.1.0
 transformers==4.20.1
+uvicorn==0.35.0
+regex==2025.7.34
+fastapi==0.116.1
